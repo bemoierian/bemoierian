@@ -2,10 +2,10 @@
 
 I'm Bemoi Erian, a computer engineering student.
 
-## 📊 My GitHub Stats
+<!-- ## 📊 My GitHub Stats
 
 [![Bemoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bemoierian&show_icons=true&theme=radical&count_private=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemoierian&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 🛠️ My Tools
