@@ -16,9 +16,13 @@
 
 [![Bemoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bemoierian&show_icons=true&theme=cobalt&count_private=true&include_all_commits=false&rank_icon=github&&show=prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Bemoi's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bemoierian&theme=solarized_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Bemoi's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bemoierian&theme=solarized_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=bemoierian&theme=cobalt2&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemoierian&theme=cobalt&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemoierian&theme=cobalt&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 🛠️ My Tools
 
