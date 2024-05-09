@@ -1,12 +1,24 @@
-# Hellooo 👋
+# Hellooo 👋 I'm Bemoi Erian
 
-I'm Bemoi Erian, a computer engineering student.
+![Code Photo](code.gif)
 
-<!-- ## 📊 My GitHub Stats
+🎓 Senior Computer Engineering student at Cairo University, passionate about technology and have gained hands-on experience across various domains including backend development, DevOps, cross-platform development, machine learning, and game development.
 
-[![Bemoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bemoierian&show_icons=true&theme=radical&count_private=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
- -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemoierian&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+🚀 In university projects, I've honed my leadership skills by coordinating tasks, conducting peer reviews, and planning the overall development, ensuring project success and team cohesion.
+
+💻 I excel at understanding large codebases and thrive on self-learning and problem-solving.
+
+🌟 Outside the realm of academics, I've proudly served as a Scout Leader for three years, offering guidance and mentorship to young scouts across cultural, social, sports, religious, and scouting activities.
+
+<!-- ![](https://komarev.com/ghpvc/?username=bemoierian) -->
+
+## 📊 My GitHub Stats
+
+[![Bemoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bemoierian&show_icons=true&theme=cobalt&count_private=true&include_all_commits=false&rank_icon=github&&show=prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bemoierian&theme=cobalt2&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemoierian&theme=cobalt&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ My Tools
 
